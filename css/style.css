@@ -1,0 +1,9 @@
+body {
+    background: purple;
+    color: white;
+}
+
+/* Make all h1 tags green */
+h1 {
+    color: #00ff00;
+}
